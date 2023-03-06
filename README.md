@@ -5,6 +5,7 @@
 [![GitHub Release][release-img]][release]
 [![GitHub Marketplace][marketplace-img]][marketplace]
 [![License][license-img]][license]
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fnleconte-csgroup%2Ftrivy-action.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fnleconte-csgroup%2Ftrivy-action?ref=badge_shield)
 
 ![](docs/images/trivy-action.png)
 
@@ -404,3 +405,7 @@ Following inputs can be used as `step.with` keys:
 [marketplace-img]: https://img.shields.io/badge/marketplace-trivy--action-blue?logo=github
 [license]: https://github.com/aquasecurity/trivy-action/blob/master/LICENSE
 [license-img]: https://img.shields.io/github/license/aquasecurity/trivy-action
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fnleconte-csgroup%2Ftrivy-action.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fnleconte-csgroup%2Ftrivy-action?ref=badge_large)
